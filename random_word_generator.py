@@ -1,5 +1,6 @@
 # Description: This file generates "random" words using the random library. Chances of somebody generating a real,
 #              random English word are probably infinitesimal.
+#              Date: April 02, 2021
 
 import random
 
